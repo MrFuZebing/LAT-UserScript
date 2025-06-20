@@ -1,1 +1,1 @@
-不如Bypass(https://github.com/MrFuZebing/userscript/raw/refs/heads/main/bypass-vip.user.js)
+下载:https://bypass.ceo/download/userscript/LATbypass.user.js
